@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-free-spins",
+        "command": "slot-free-spins:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-free-spins",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-free-spins:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
