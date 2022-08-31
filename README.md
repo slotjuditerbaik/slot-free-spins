@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Live Info Trik Gacor Slot Free Spins Koin Tukar Uang](https://atom.io/packages/slot-free-spins)
-## :radio_button: klik untuk [Daftar Sekarang](https://agentotoplay.net/promo/) :heavy_check_mark: <<< 
-## :point_right: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/) :snowflake: <<< 
-## :arrow_forward: klik untuk [Dapatkan Akun Gacor](https://agentotoplay.net/register/) :heavy_check_mark: <<< 
+## :radio_button: klik untuk [Daftar Sekarang](https://golinkurl.github.io/promo/) :heavy_check_mark: <<< 
+## :point_right: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/) :snowflake: <<< 
+## :arrow_forward: klik untuk [Dapatkan Akun Gacor](https://golinkurl.github.io/register/) :heavy_check_mark: <<< 
 
 ## Informasi Situs /Server Kami : 
 
